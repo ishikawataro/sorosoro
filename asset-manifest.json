@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sorosoro/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/sorosoro/static/js/main.9844fcca.chunk.js",
-    "main.js.map": "/sorosoro/static/js/main.9844fcca.chunk.js.map",
+    "main.js": "/sorosoro/static/js/main.e9a086fe.chunk.js",
+    "main.js.map": "/sorosoro/static/js/main.e9a086fe.chunk.js.map",
     "runtime-main.js": "/sorosoro/static/js/runtime-main.3d62dc58.js",
     "runtime-main.js.map": "/sorosoro/static/js/runtime-main.3d62dc58.js.map",
     "static/js/2.a296a613.chunk.js": "/sorosoro/static/js/2.a296a613.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3d62dc58.js",
     "static/js/2.a296a613.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.9844fcca.chunk.js"
+    "static/js/main.e9a086fe.chunk.js"
   ]
 }
