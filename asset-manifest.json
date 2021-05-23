@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sorosoro/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/sorosoro/static/js/main.9844fcca.chunk.js",
+    "main.js.map": "/sorosoro/static/js/main.9844fcca.chunk.js.map",
+    "runtime-main.js": "/sorosoro/static/js/runtime-main.3d62dc58.js",
+    "runtime-main.js.map": "/sorosoro/static/js/runtime-main.3d62dc58.js.map",
+    "static/js/2.a296a613.chunk.js": "/sorosoro/static/js/2.a296a613.chunk.js",
+    "static/js/2.a296a613.chunk.js.map": "/sorosoro/static/js/2.a296a613.chunk.js.map",
+    "static/js/3.74cb991b.chunk.js": "/sorosoro/static/js/3.74cb991b.chunk.js",
+    "static/js/3.74cb991b.chunk.js.map": "/sorosoro/static/js/3.74cb991b.chunk.js.map",
+    "index.html": "/sorosoro/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/sorosoro/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.a296a613.chunk.js.LICENSE.txt": "/sorosoro/static/js/2.a296a613.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sorosoro/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d62dc58.js",
+    "static/js/2.a296a613.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.9844fcca.chunk.js"
+  ]
+}
